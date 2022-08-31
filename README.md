@@ -60,7 +60,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 注：参考一下图片
 
-[https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(2).png](https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(2).png?raw=true)
+![Image][https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(2).png](https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(2).png?raw=true)
 https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(3).png
 https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(4).png
 https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(1).png
