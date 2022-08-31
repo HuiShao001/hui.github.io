@@ -60,10 +60,10 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 注：参考一下图片
 
-huishao001(2)
-huishao001(3)
-huishao001(4)
-huishao001(1)
+huishao001(2)<br/>
+huishao001(3)<br/>
+huishao001(4)<br/>
+huishao001(1)<br/>
 
 注：这里需要新建两个测试模板，第一个是推送内容模板，第二个是颜文字模板，然后将新建的模板ID写入配置文件中（配置文件请参考项目中src/main/resource/application.yaml）
 
