@@ -99,3 +99,4 @@ huishao001(1)<br/>
 注：项目默认早上7点半准时推送，访问以下网址即可立即推送
 
 http://localhost:9090/wechat001/hui/wechat/sendMessage
+注：可以查看效果图
