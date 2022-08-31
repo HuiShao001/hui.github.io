@@ -60,13 +60,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 住：参考一下图片
 
-[![image-20220831091923881](C:\Users\HuiShao\Desktop\image-20220831091923881.png)](https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(2).png)
 
-[![image-20220831092117650](C:\Users\HuiShao\Desktop\image-20220831092117650.png)](https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(3).png)
-
-[![image-20220831092240867](C:\Users\HuiShao\Desktop\image-20220831092240867.png)](https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(4).png)
-
-[![image-20220831092415864](C:\Users\HuiShao\Desktop\image-20220831092415864.png)](https://github.com/HuiShao001/hui.github.io/blob/wechathigh/huishao001%20(1).png)
 
 注：这里需要新建两个测试模板，第一个是推送内容模板，第二个是颜文字模板，然后将新建的模板ID写入配置文件中（配置文件请参考项目中src/main/resource/application.yaml）
 
