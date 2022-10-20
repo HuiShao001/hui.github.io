@@ -1,0 +1,49 @@
+# 早安模板
+{{time.DATA}}
+{{title.DATA}}
+{{titleone.DATA}}
+{{days.DATA}}{{day.DATA}}
+{{Datename.DATA}}{{xuan.DATA}}{{hui.DATA}}
+{{fss.DATA}}{{fs.DATA}}
+{{states.DATA}}{{state.DATA}}
+{{citys.DATA}}{{city.DATA}}
+{{weathers.DATA}}{{weather.DATA}}
+{{sunrises.DATA}}{{sunrise.DATA}}
+{{sunsets.DATA}}{{sunset.DATA}}
+{{reals.DATA}}{{real.DATA}}
+{{highests.DATA}}{{highest.DATA}}
+{{lowests.DATA}}{{lowest.DATA}}
+{{humiditys.DATA}}{{humidity.DATA}}
+{{colors.DATA}}{{color.DATA}}
+
+
+# 文字模板
+星座匹配：{{constellationtitle.DATA}}
+{{constellationgrade.DATA}}
+{{constellationcontent.DATA}}
+{{tipshui.DATA}}{{tips.DATA}}
+{{chps.DATA}}{{chp.DATA}}
+{{loveyous.DATA}}{{loveyou.DATA}}
+{{dus.DATA}}{{du.DATA}}
+{{jokess.DATA}}{{jokes.DATA}}
+{{constellationName.DATA}}{{love.DATA}}
+
+# 颜文字
+{{emojiwen.DATA}}
+{{emoji.DATA}}
+
+# 晚安模板
+{{title.DATA}}
+{{timewen.DATA}}{{time.DATA}}
+{{rainbow.DATA}}
+{{night.DATA}}
+{{nightlove.DATA}}
+{{nighttitle.DATA}}
+{{weathers.DATA}}{{weather.DATA}}
+{{reals.DATA}}{{real.DATA}}
+{{lowests.DATA}}{{lowest.DATA}}
+{{highests.DATA}}{{highest.DATA}}
+
+
+# 中午模板
+{{title.DATA}}
